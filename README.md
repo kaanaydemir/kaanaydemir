@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a software developer with experience in Java, Spring, Spring Boot, Docker, Kubernetes, Kafka, Oracle, and MS SQL. I also hold an AWS Certified Cloud Practitioner certificate. I enjoy building scalable and reliable software systems that solve real-world problems. When I'm not coding, you can find me reading books or playing video games. Thanks for stopping by my Github profile!
+Hi there! I'm a software developer with experience in Java, Spring, Spring Boot, Docker, Kubernetes, Kafka, Oracle, and MS SQL. I also hold an AWS Certified Developer – Associate and AWS Certified Cloud Practitioner certificate. I enjoy building scalable and reliable software systems that solve real-world problems. When I'm not coding, you can find me reading books or playing video games. Thanks for stopping by my Github profile!
 
 
 ## 🌐 Socials:
